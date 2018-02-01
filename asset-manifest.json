@@ -1,11 +1,14 @@
 {
-  "main.css": "static/css/main.eda63d3e.css",
-  "main.css.map": "static/css/main.eda63d3e.css.map",
-  "main.js": "static/js/main.f85f7c3b.js",
-  "main.js.map": "static/js/main.f85f7c3b.js.map",
+  "main.css": "static/css/main.28c4e46b.css",
+  "main.css.map": "static/css/main.28c4e46b.css.map",
+  "main.js": "static/js/main.144db6b8.js",
+  "main.js.map": "static/js/main.144db6b8.js.map",
+  "static\\media\\about-head.jpg": "static/media/about-head.2de9849c.jpg",
+  "static\\media\\contacts-head.jpg": "static/media/contacts-head.9f9393dd.jpg",
   "static\\media\\landing.jpg": "static/media/landing.4e0c17ee.jpg",
   "static\\media\\life-thumb.jpg": "static/media/life-thumb.3f7aba24.jpg",
   "static\\media\\logo.png": "static/media/logo.a851fd52.png",
+  "static\\media\\services-head.jpg": "static/media/services-head.e8634450.jpg",
   "static\\media\\style-thumb.jpg": "static/media/style-thumb.7404fac4.jpg",
   "static\\media\\travel-thumb.jpg": "static/media/travel-thumb.68be1b78.jpg"
 }
