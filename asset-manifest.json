@@ -1,8 +1,8 @@
 {
-  "main.css": "static/css/main.0f1badc7.css",
-  "main.css.map": "static/css/main.0f1badc7.css.map",
-  "main.js": "static/js/main.7a4d3457.js",
-  "main.js.map": "static/js/main.7a4d3457.js.map",
+  "main.css": "static/css/main.49277c6c.css",
+  "main.css.map": "static/css/main.49277c6c.css.map",
+  "main.js": "static/js/main.cbb610ca.js",
+  "main.js.map": "static/js/main.cbb610ca.js.map",
   "static\\media\\about-head.jpg": "static/media/about-head.2de9849c.jpg",
   "static\\media\\contacts-head.jpg": "static/media/contacts-head.9f9393dd.jpg",
   "static\\media\\landing.jpg": "static/media/landing.4e0c17ee.jpg",
@@ -10,5 +10,8 @@
   "static\\media\\logo.png": "static/media/logo.a851fd52.png",
   "static\\media\\services-head.jpg": "static/media/services-head.e8634450.jpg",
   "static\\media\\style-thumb.jpg": "static/media/style-thumb.7404fac4.jpg",
+  "static\\media\\team1.jpg": "static/media/team1.36d1a749.jpg",
+  "static\\media\\team2.jpg": "static/media/team2.3b1f7698.jpg",
+  "static\\media\\team3.jpg": "static/media/team3.a81307b7.jpg",
   "static\\media\\travel-thumb.jpg": "static/media/travel-thumb.68be1b78.jpg"
 }
